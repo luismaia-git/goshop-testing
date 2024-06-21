@@ -1,4 +1,8 @@
-# E-commerce App "GoShop"
+# Repository for creating a Software Verification, Validation and Testing project, using the GoShop application
+
+### All the documents created from the study are in the /documents folder
+
+## E-commerce App "GoShop"
 
 E-commerce full-stack web application built with React, Node.js, Express, MySQL (Prisma), and Stripe that represents the functionality of an online store. Users can browse through the products, add them to the cart, and place an order. Admins can manage the products and orders.
 </br></br>
@@ -61,10 +65,5 @@ Firebase Authentication serves as the app's authentication mechanism, allowing G
 -   ![React Hook Form](https://img.shields.io/badge/React_Hook_Form-0088CC?style=for-the-badge&logo=react-hook-form&logoColor=white)
 -   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 
-## Contact
-
--   LinkedIn: [Danyl Kecha](https://www.linkedin.com/in/danylkecha/)
--   Mail: danyl.kecha.uk@gmail.com
+#### App Author
 -   GitHub: [ke444a](https://github.com/ke444a)
--   Twitter: [@ke444a](https://twitter.com/ke444a)
--   Hashnode: [blog.danylkecha.com](https://blog.danylkecha.com)
